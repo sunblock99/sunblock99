@@ -14,7 +14,7 @@
 
     Nice to meet you👐
     “Small changes add up to change the world”
-    I am Choi Seung-jun, a developer with the belief that it is!
+    I am sun HyeongChae, a developer with the belief that it is!
 
     I'm majoring in computer software engineering and learning backend.
 </p>
