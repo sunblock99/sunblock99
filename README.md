@@ -9,14 +9,8 @@
     반갑습니다👐 <br>
     “작은 변화들이 모여 세상을 바꾼다” <br>
     라는 믿음을 가진 개발자 선형채입니다! <br><br>
-    소프트웨어공학을 전공 중이며, <br>
+    컴퓨터공학을 전공 중이며, <br>
     하나를 배우더라도 깊이 있게 배우려는 자세로 백엔드 개발을 학습하고 있습니다.
-
-    Nice to meet you👐
-    “Small changes add up to change the world”
-    I am sun HyeongChae, a developer with the belief that it is!
-
-    I'm majoring in computer software engineering and learning backend.
 </p>
 
 <br>
