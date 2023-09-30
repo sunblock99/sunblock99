@@ -25,6 +25,8 @@
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
 </p>
 <br><br>
+
+<p align="center" display="inline-block">
 <Strong>📧Email📧</Strong><br>dlgkdu1234@gmail.com<br>
 
 </p>
