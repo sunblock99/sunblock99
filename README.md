@@ -27,7 +27,7 @@
 <br><br>
 
 <p align="center" display="inline-block">
-<Strong>📧Email📧</Strong><br>dlgkdu1234@gmail.com<br>
+<Strong>📧Email📧</Strong><br>sunblock99@kakao.com<br>
 
 </p>
 <br>
